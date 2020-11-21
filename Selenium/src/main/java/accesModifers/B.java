@@ -7,7 +7,7 @@ public class B {
 		
 		A a = new A();
 		a.mostrarpublic();
-		a.mostrar();
+		//a.mostrar();
 
 	}
 
